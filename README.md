@@ -17,12 +17,15 @@ A calculator that calculates simple interest given principal, annual rate of int
 - CSS
 
 ## Usage
-Using the following Inputs:
+Using the following: 
+
+Inputs:
    p, principal amount
    t, time period in years
    r, annual rate of interest
 
-You can calculate your simple interest by using nthe following formula:
+You can calculate your simple interest by using the following formula:
+
 Output
    simple interest = p*t*r
 
